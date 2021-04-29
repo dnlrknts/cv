@@ -21,9 +21,9 @@ I have high analytical skills,I learn quickly.
 Java code in the frame of the university program
 <https://github.com/dnlrknts/Java_var10>
 # Experience(Courses)
-* DataMola(DWH)
+## DataMola(DWH)
 I created data warehouses as part of my own project.
-* BelitSoft(Web-developer)
+## BelitSoft(Web-developer)
 Website development(front end-developer).
 # Education
 BSU , Faculty of Mechanics and Mathematics , math and software for mobile devices.
