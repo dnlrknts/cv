@@ -23,7 +23,6 @@ Java code in the frame of the university program
 # Experience(Courses)
 ## DataMola(DWH)
 I created data warehouses as part of my own project with Oracle SQL Developer
-OLAP,OLTP
 ## BelitSoft(Web-developer)
 Website development(front end-developer) using JS,HTML+CSS,Bootstrap,jQuery,React,Vue
 # Education
