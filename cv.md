@@ -22,7 +22,9 @@ Java code in the frame of the university program
 <https://github.com/dnlrknts/Java_var10>
 # Experience(Courses)
 * DataMola(DWH)
+I created data warehouses as part of my own project.
 * BelitSoft(Web-developer)
+Website development(front end-developer).
 # Education
 BSU , Faculty of Mechanics and Mathematics , math and software for mobile devices.
 # Languages
