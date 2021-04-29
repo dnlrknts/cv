@@ -20,6 +20,9 @@ I have high analytical skills,I learn quickly.
 # Code example
 Java code in the frame of the university program
 <https://github.com/dnlrknts/Java_var10>
+# Experience(Courses)
+* DataMola(DWH)
+* BelitSoft(Web-developer)
 # Education
 BSU , Faculty of Mechanics and Mathematics , math and software for mobile devices.
 # Languages
