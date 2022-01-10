@@ -17,6 +17,7 @@ I have high analytical skills,I learn quickly.
 *  JavaScript
 *  Java
 *  SQL
+*  Dart\Flutter
 # Code example
 Java code in the frame of the university program
 <https://github.com/dnlrknts/Java_var10>
@@ -25,6 +26,8 @@ Java code in the frame of the university program
 I created data warehouses as part of my own project with Oracle SQL Developer
 ## BelitSoft(Web-developer)
 Website development(front end-developer) using JS,HTML+CSS,Bootstrap,jQuery,React,Vue
+## ZETREEX(Project Manager)
+3 projects from scratch , thinking through and analyzing technologies for the project .Team selection, interview of frontend developers.Initial testing.
 # Education
 BSU , Faculty of Mechanics and Mathematics , math and software for mobile devices.
 # Languages
