@@ -1,6 +1,6 @@
 #  Daniela Rakoniats
 # Contacts:
-*  E-mail:<danielarakoniats53@gmail.com>
+*  E-mail:<dnlrknts@gmail.com>
 *   Phone:+375445131772
 *   LinkedIn:Daniela Rakoniats
 # Summary
@@ -29,7 +29,7 @@ Website development(front end-developer) using JS,HTML+CSS,Bootstrap,jQuery,Reac
 ## ZETREEX(Project Manager)
 3 projects from scratch , thinking through and analyzing technologies for the project .Team selection, interview of frontend developers.Initial testing.
 # Education
-BSU , Faculty of Mechanics and Mathematics , math and software for mobile devices.
+BSU , Faculty of Applied Mathematics and Computer Science , applied mathematics.
 # Languages
 * English - B1
 * Spanish
