@@ -14,20 +14,15 @@ I have high analytical skills,I learn quickly.
 *  Research activities
 *  Solving problems
 *  HTML5 + CSS
-*  JavaScript
+*  Docker
 *  Java
 *  SQL
-*  Dart\Flutter
+*  AWS
 # Code example
-Java code in the frame of the university program
-<https://github.com/dnlrknts/Java_var10>
+<>
 # Experience(Courses)
 ## DataMola(DWH)
 I created data warehouses as part of my own project with Oracle SQL Developer
-## BelitSoft(Web-developer)
-Website development(front end-developer) using JS,HTML+CSS,Bootstrap,jQuery,React,Vue
-## ZETREEX(Project Manager)
-3 projects from scratch , thinking through and analyzing technologies for the project .Team selection, interview of frontend developers.Initial testing.
 # Education
 BSU , Faculty of Applied Mathematics and Computer Science , applied mathematics.
 # Languages
